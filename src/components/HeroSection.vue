@@ -99,7 +99,7 @@
           class="absolute -inset-1 rounded-full from-yellow-600 to-yellow-100 opacity-25 blur transition duration-1000 group-hover:opacity-100 group-hover:duration-200 dark:bg-gradient-to-r"
         ></div>
         <a
-          href="~/assets/files/John_Nehry_C_Dedoro_Resume.pdf"
+          :href="resume"
           download
           class="relative flex w-full items-center justify-center rounded-full border-2 border-white bg-gray-100 px-4 py-4 text-sm font-semibold leading-none text-gray-900 shadow-lg ring-1 ring-gray-900/5 transition duration-200 ease-in-out dark:border-0 dark:bg-gray-900 dark:text-gray-500 dark:shadow-none dark:group-hover:text-white dark:group-hover:ring-2 dark:group-hover:ring-gray-900"
         >
@@ -213,7 +213,9 @@
   </div>
 </template>
 
-<script setup></script>
+<script setup>
+import resume from "~/assets/files/John_Nehry_C_Dedoro_Resume.pdf";
+</script>
 
 <style scoped>
 .glow-text {
