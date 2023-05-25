@@ -6,7 +6,7 @@ node_modules
 .output
 .env
 .env.old
-dist
+# dist
 dist.old
 .DS_Store
 .vscode
