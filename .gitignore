@@ -5,6 +5,8 @@ node_modules
 .cache
 .output
 .env
-# dist
+.env.old
+dist
+dist.old
 .DS_Store
 .vscode
