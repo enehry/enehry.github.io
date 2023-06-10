@@ -204,7 +204,7 @@
         >
           <img
             class="relative h-52 w-52 rounded-full border-2 border-stone-700 sm:h-72 sm:w-72"
-            src="~/assets/images/nehry.jpg"
+            src="~/assets/images/profile.jpg"
             alt="hero"
           />
         </div>
