@@ -70,6 +70,11 @@
         ><img src="~assets/images/uranus.png" alt="contact" />
       </glowing-effect>
     </div>
+    <div
+      class="absolute bottom-0 left-0 pb-2 text-sm text-gray-500 dark:text-gray-300"
+    >
+      ®nafdr++
+    </div>
   </div>
 </template>
 
