@@ -34,9 +34,9 @@
             Flutter, Vue.js, and React.js. Now nearing graduation in Information
             Technology with a remarkable 1.23 QPA, I am proud of my Cum Laude
             distinction, Service and Proficiency awards, and 3rd place in a
-            regional C# Programming competition. My capstone project, Eprodel,
-            won Best in Developmental Study, automating the dean's list,
-            streamlining information dissemination, and enabling seamless
+            regional C# Programming competition. Our capstone project, Eprodel,
+            won Best in Developmental Study (Eprodel), automating the dean's
+            list, streamlining information dissemination, and enabling seamless
             communication using Vue.js, Flutter, Laravel API, Firebase, and
             MySQL, all guided by REST principles.
           </p>
