@@ -126,12 +126,11 @@
 </template>
 
 <script setup lang="ts">
-import { ContentfulClientApi } from "contentful";
-// import { Project } from "@/interfaces";
 import { documentToHtmlString } from "@contentful/rich-text-html-renderer";
 import type { Document } from "@contentful/rich-text-types";
 import { Project } from "~/interfaces";
 import { ProjectPlatform } from "../interfaces";
+import { ContentfulClientApi } from "contentful";
 
 const app = useNuxtApp();
 

@@ -151,18 +151,15 @@
                 class="list-inside list-disc font-normal text-gray-900 dark:text-gray-400"
               >
                 <li class="">Cum Laude</li>
-                <li class="">Service Award</li>
-                <li class="">Proficiency Award</li>
+                <li class="">Service Awardee</li>
+                <li class="">Proficiency Awardee</li>
+                <li class="">Best in Developmental Study</li>
                 <li class="t">3rd Place Regional C# Programming Competition</li>
-                <li class="">
-                  Best in Developmental Study (Capstone Project, 16th Research
-                  Congress)
-                </li>
-                <li>Resource Speaker Introduction to TailwindCSS (URS)</li>
-                <li>Resource Speaker Introduction to Git & Github (URS)</li>
+                <li>Resource Speaker Introduction to TailwindCSS</li>
+                <li>Resource Speaker Introduction to Git & Github</li>
                 <li>
                   Resource Speaker Introduction to Flutter Mobile Application
-                  Development (URS)
+                  Development
                 </li>
                 <li>1st yr - 4th yr Dean's Lister 1.27 - 1.17 GWA</li>
               </ul>
@@ -216,8 +213,7 @@
                 class="list-inside list-disc font-normal text-gray-900 dark:text-gray-400"
               >
                 <li class="">High Honors</li>
-                <li class="">Conduct Award</li>
-                <li class="">Proficiency Award</li>
+                <li class="">Conduct Awardee</li>
                 <li class="">1st Place Gamathlypics Java Game Dev</li>
                 <li class="">Champion Best Youth Mapper (UP Project Noah)</li>
               </ul>
